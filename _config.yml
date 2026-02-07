@@ -1,2 +1,23 @@
-theme: jekyll-theme-minimal
-title: Madu Chinemerem Portfolio | Big Data Engineer
+# Site Settings
+title: Madu Chinemerem Clarence
+description: Senior Big Data Engineer & Freelance Consultant specializing in Spark, Kafka, and AWS/GCP cloud architecture for global distributed teams.
+author: Madu Chinemerem Clarence
+email: chinemerem.madu@proton.me
+
+# SEO and Social
+twitter_username: 
+github_username: clarence-6109
+linkedin_username:  # Add your LinkedIn profile slug if available
+
+# Theme Customization
+theme: jekyll-theme-minimal # Or 'jekyll-theme-hacker' for built-in dark mode
+logo: /assets/profile-pic.png # Add a professional headshot to your assets folder
+show_downloads: false # Hides GitHub's "Download .zip" buttons for a cleaner look
+
+# Google Analytics (Crucial for Freelancers to track lead traffic)
+google_analytics:  # Add your Google Analytics ID if set up
+
+# Plugins
+plugins:
+  - jekyll-seo-tag # Automatically generates meta tags for LinkedIn/Google previews
+  - jekyll-feed
