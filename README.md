@@ -1,7 +1,3 @@
-# Madu Chinemerem Clarence
-**Senior Big Data Architect & Freelance Consultant**  
-Lagos, Nigeria (UTC +1) | [GitHub](https://github.com) | [Email](mailto:Chinemerem.Madu@proton.me)
-
 ## Executive Summary
 As a **Senior Big Data Engineer and Freelancer** with 8 years of experience, I architect scalable **Spark and Kafka** pipelines for **global distributed teams**. By leveraging **AWS/GCP**, I transform high-volume data into high-performance business assets, specializing in **optimizing distributed systems** and delivering reliable, remote-first data infrastructure at scale.
 
