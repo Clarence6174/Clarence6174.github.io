@@ -11,7 +11,6 @@ linkedin_username:  # Add your LinkedIn profile slug if available
 
 # Theme Customization
 theme: jekyll-theme-minimal # Or 'jekyll-theme-hacker' for built-in dark mode
-logo: profile.png # Add a professional headshot to your assets folder
 show_downloads: false # Hides GitHub's "Download .zip" buttons for a cleaner look
 
 # Google Analytics (Crucial for Freelancers to track lead traffic)
